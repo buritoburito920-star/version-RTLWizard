@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
   "download_url": "https://github.com/buritoburito920-star/version-RTLWizard/releases/latest/download/RTLWizard.exe",
-  "changelog": "Fixed the JSON formatting error and improved update logic."
+  "changelog": "Fixed bugs."
 }
